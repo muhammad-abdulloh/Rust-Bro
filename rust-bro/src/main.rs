@@ -12,3 +12,12 @@ fn main() {
         i += 1;
     }
 }
+
+// output
+/*
+No
+No
+Yes
+
+aaaaaaaaaaa nimo'so'ldi
+ */

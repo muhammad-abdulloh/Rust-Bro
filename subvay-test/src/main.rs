@@ -91,4 +91,6 @@ fn main() {
 
     println!("{} ", "I love Rust :)");
 
+    println!("{} ", "I love Rust :)");
+
 }

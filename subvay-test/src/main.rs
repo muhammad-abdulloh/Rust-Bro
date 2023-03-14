@@ -89,10 +89,4 @@ fn main() {
 
     println!("{} {} {} {} {} ", 4 == 4, 4 != 4, 4 < 4, 4 <= 4, 4 > 4 );
 
-    println!("{} ", "I love Rust :)");
-
-    //davayte
-
-    println!("{} ", "I love Rust :)");
-
 }

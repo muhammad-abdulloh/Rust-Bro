@@ -89,4 +89,6 @@ fn main() {
 
     println!("{} {} {} {} {} ", 4 == 4, 4 != 4, 4 < 4, 4 <= 4, 4 > 4 );
 
+    print!("Bye Bye Rust Just one :(")
+
 }
